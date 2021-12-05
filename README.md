@@ -1,3 +1,3 @@
 # MagicNavMenu
 Magic Navigation Menu Design from online tutorial https://www.youtube.com/watch?v=ArTVfdHOB-M&amp;t=593s
-MagicNavMenu.png
+![Screenshot](MagicNavMenu.png)
